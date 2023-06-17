@@ -119,7 +119,7 @@ All code found in this repository (within /src directories) was written by mysel
 
 [https://github.com/adafruit/Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO)
 
-The font used on the RGB Guesser 3D-printed box is [https://www.dafont.com/moonhouse.font](Moonhouse).
+The font used on the RGB Guesser 3D-printed box is [Moonhouse](https://www.dafont.com/moonhouse.font).
 
 # Reference List
 
