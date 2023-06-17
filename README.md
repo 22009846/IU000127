@@ -87,9 +87,9 @@ You may be wondering how, if the components are connected via Dupont wires, a so
 
 RGB Guesser’s hardware is enclosed within a 3D-printed box of my own design. Most of the box was printed with a tri-coloured filament with red, green, and blue PLA, which I picked due to the nature of the game (which involves guessing red, green, and blue values). Other colours can be seen on the box, which are a result of the red, green, and blue mixing together (in addition to the white arrow, which was printed with white PLA). Below are some screenshots that show the box’s design in Autodesk Fusion 360 (the software I used to design it). The total printing time of the box was 56 hours and 37 minutes.
 
-![](Images/3.jpeg)
+![](Images/3.png)
 
-![](Images/4.jpeg)
+![](Images/4.png)
 
 # Challenges I Encountered
 
